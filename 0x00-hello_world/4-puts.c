@@ -1,5 +1,4 @@
-#!/bin/bash
-#include <std.io>
+#include <stdio.h
 
 int puts(){
 	a = "Programming is like building a multilingual puzzle/n"
