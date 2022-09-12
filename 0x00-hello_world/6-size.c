@@ -20,5 +20,5 @@ int main(void)
 	printf("Size of a long int: %lu byte(s)\n", sizeof(along));
 	printf("Size of a long long int: %lu byte(s)\n", sizeof(alonglong));
 
-	return (0);
+	return 0;
 }
